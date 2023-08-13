@@ -1418,11 +1418,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Murtuza\\source\\repos\\TestWebApiModels\\TestWebApiModels.csproj",
+      "projectUniqueName": "C:\\Users\\Murtuza\\Desktop\\TestWebApi\\TestWebApiModels\\TestWebApiModels.csproj",
       "projectName": "TestWebApiModels",
-      "projectPath": "C:\\Users\\Murtuza\\source\\repos\\TestWebApiModels\\TestWebApiModels.csproj",
+      "projectPath": "C:\\Users\\Murtuza\\Desktop\\TestWebApi\\TestWebApiModels\\TestWebApiModels.csproj",
       "packagesPath": "C:\\Users\\Murtuza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Murtuza\\source\\repos\\TestWebApiModels\\obj\\",
+      "outputPath": "C:\\Users\\Murtuza\\Desktop\\TestWebApi\\TestWebApiModels\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

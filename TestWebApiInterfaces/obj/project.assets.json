@@ -1456,11 +1456,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Murtuza\\source\\repos\\TestWebApiInterfaces\\TestWebApiBussiness.csproj",
+      "projectUniqueName": "C:\\Users\\Murtuza\\Desktop\\TestWebApi\\TestWebApiInterfaces\\TestWebApiBussiness.csproj",
       "projectName": "TestWebApiBussiness",
-      "projectPath": "C:\\Users\\Murtuza\\source\\repos\\TestWebApiInterfaces\\TestWebApiBussiness.csproj",
+      "projectPath": "C:\\Users\\Murtuza\\Desktop\\TestWebApi\\TestWebApiInterfaces\\TestWebApiBussiness.csproj",
       "packagesPath": "C:\\Users\\Murtuza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Murtuza\\source\\repos\\TestWebApiInterfaces\\obj\\",
+      "outputPath": "C:\\Users\\Murtuza\\Desktop\\TestWebApi\\TestWebApiInterfaces\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1480,11 +1480,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Murtuza\\source\\repos\\TestWebApiHelper\\TestWebApiHelper.csproj": {
-              "projectPath": "C:\\Users\\Murtuza\\source\\repos\\TestWebApiHelper\\TestWebApiHelper.csproj"
+            "C:\\Users\\Murtuza\\Desktop\\TestWebApi\\TestWebApiHelper\\TestWebApiHelper.csproj": {
+              "projectPath": "C:\\Users\\Murtuza\\Desktop\\TestWebApi\\TestWebApiHelper\\TestWebApiHelper.csproj"
             },
-            "C:\\Users\\Murtuza\\source\\repos\\TestWebApiModels\\TestWebApiModels.csproj": {
-              "projectPath": "C:\\Users\\Murtuza\\source\\repos\\TestWebApiModels\\TestWebApiModels.csproj"
+            "C:\\Users\\Murtuza\\Desktop\\TestWebApi\\TestWebApiModels\\TestWebApiModels.csproj": {
+              "projectPath": "C:\\Users\\Murtuza\\Desktop\\TestWebApi\\TestWebApiModels\\TestWebApiModels.csproj"
             }
           }
         }
