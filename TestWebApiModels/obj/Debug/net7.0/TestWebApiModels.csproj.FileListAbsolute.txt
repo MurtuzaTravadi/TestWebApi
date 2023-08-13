@@ -1,0 +1,12 @@
+C:\Users\Murtuza\source\repos\TestWebApiModels\bin\Debug\net7.0\TestWebApiModels.deps.json
+C:\Users\Murtuza\source\repos\TestWebApiModels\bin\Debug\net7.0\TestWebApiModels.dll
+C:\Users\Murtuza\source\repos\TestWebApiModels\bin\Debug\net7.0\TestWebApiModels.pdb
+C:\Users\Murtuza\source\repos\TestWebApiModels\obj\Debug\net7.0\TestWebApiModels.csproj.AssemblyReference.cache
+C:\Users\Murtuza\source\repos\TestWebApiModels\obj\Debug\net7.0\TestWebApiModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murtuza\source\repos\TestWebApiModels\obj\Debug\net7.0\TestWebApiModels.AssemblyInfoInputs.cache
+C:\Users\Murtuza\source\repos\TestWebApiModels\obj\Debug\net7.0\TestWebApiModels.AssemblyInfo.cs
+C:\Users\Murtuza\source\repos\TestWebApiModels\obj\Debug\net7.0\TestWebApiModels.csproj.CoreCompileInputs.cache
+C:\Users\Murtuza\source\repos\TestWebApiModels\obj\Debug\net7.0\TestWebApiModels.dll
+C:\Users\Murtuza\source\repos\TestWebApiModels\obj\Debug\net7.0\refint\TestWebApiModels.dll
+C:\Users\Murtuza\source\repos\TestWebApiModels\obj\Debug\net7.0\TestWebApiModels.pdb
+C:\Users\Murtuza\source\repos\TestWebApiModels\obj\Debug\net7.0\ref\TestWebApiModels.dll

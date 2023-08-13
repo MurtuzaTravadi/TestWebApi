@@ -1,0 +1,17 @@
+C:\Users\Murtuza\source\repos\TestWebApiInterfaces\bin\Debug\net7.0\TestWebApiBussiness.deps.json
+C:\Users\Murtuza\source\repos\TestWebApiInterfaces\bin\Debug\net7.0\TestWebApiBussiness.dll
+C:\Users\Murtuza\source\repos\TestWebApiInterfaces\bin\Debug\net7.0\TestWebApiBussiness.pdb
+C:\Users\Murtuza\source\repos\TestWebApiInterfaces\bin\Debug\net7.0\TestWebApiHelper.dll
+C:\Users\Murtuza\source\repos\TestWebApiInterfaces\bin\Debug\net7.0\TestWebApiModels.dll
+C:\Users\Murtuza\source\repos\TestWebApiInterfaces\bin\Debug\net7.0\TestWebApiHelper.pdb
+C:\Users\Murtuza\source\repos\TestWebApiInterfaces\bin\Debug\net7.0\TestWebApiModels.pdb
+C:\Users\Murtuza\source\repos\TestWebApiInterfaces\obj\Debug\net7.0\TestWebApiBussiness.csproj.AssemblyReference.cache
+C:\Users\Murtuza\source\repos\TestWebApiInterfaces\obj\Debug\net7.0\TestWebApiBussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murtuza\source\repos\TestWebApiInterfaces\obj\Debug\net7.0\TestWebApiBussiness.AssemblyInfoInputs.cache
+C:\Users\Murtuza\source\repos\TestWebApiInterfaces\obj\Debug\net7.0\TestWebApiBussiness.AssemblyInfo.cs
+C:\Users\Murtuza\source\repos\TestWebApiInterfaces\obj\Debug\net7.0\TestWebApiBussiness.csproj.CoreCompileInputs.cache
+C:\Users\Murtuza\source\repos\TestWebApiInterfaces\obj\Debug\net7.0\TestWebApiBussiness.csproj.CopyComplete
+C:\Users\Murtuza\source\repos\TestWebApiInterfaces\obj\Debug\net7.0\TestWebApiBussiness.dll
+C:\Users\Murtuza\source\repos\TestWebApiInterfaces\obj\Debug\net7.0\refint\TestWebApiBussiness.dll
+C:\Users\Murtuza\source\repos\TestWebApiInterfaces\obj\Debug\net7.0\TestWebApiBussiness.pdb
+C:\Users\Murtuza\source\repos\TestWebApiInterfaces\obj\Debug\net7.0\ref\TestWebApiBussiness.dll

@@ -1,0 +1,15 @@
+C:\Users\Murtuza\source\repos\TestWebApiHelper\bin\Debug\net7.0\TestWebApiHelper.deps.json
+C:\Users\Murtuza\source\repos\TestWebApiHelper\bin\Debug\net7.0\TestWebApiHelper.dll
+C:\Users\Murtuza\source\repos\TestWebApiHelper\bin\Debug\net7.0\TestWebApiHelper.pdb
+C:\Users\Murtuza\source\repos\TestWebApiHelper\bin\Debug\net7.0\TestWebApiModels.dll
+C:\Users\Murtuza\source\repos\TestWebApiHelper\bin\Debug\net7.0\TestWebApiModels.pdb
+C:\Users\Murtuza\source\repos\TestWebApiHelper\obj\Debug\net7.0\TestWebApiHelper.csproj.AssemblyReference.cache
+C:\Users\Murtuza\source\repos\TestWebApiHelper\obj\Debug\net7.0\TestWebApiHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murtuza\source\repos\TestWebApiHelper\obj\Debug\net7.0\TestWebApiHelper.AssemblyInfoInputs.cache
+C:\Users\Murtuza\source\repos\TestWebApiHelper\obj\Debug\net7.0\TestWebApiHelper.AssemblyInfo.cs
+C:\Users\Murtuza\source\repos\TestWebApiHelper\obj\Debug\net7.0\TestWebApiHelper.csproj.CoreCompileInputs.cache
+C:\Users\Murtuza\source\repos\TestWebApiHelper\obj\Debug\net7.0\TestWebApiHelper.csproj.CopyComplete
+C:\Users\Murtuza\source\repos\TestWebApiHelper\obj\Debug\net7.0\TestWebApiHelper.dll
+C:\Users\Murtuza\source\repos\TestWebApiHelper\obj\Debug\net7.0\refint\TestWebApiHelper.dll
+C:\Users\Murtuza\source\repos\TestWebApiHelper\obj\Debug\net7.0\TestWebApiHelper.pdb
+C:\Users\Murtuza\source\repos\TestWebApiHelper\obj\Debug\net7.0\ref\TestWebApiHelper.dll
